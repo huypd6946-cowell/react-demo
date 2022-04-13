@@ -23,7 +23,7 @@ import './App.css';
 import { useFetch } from "react-async"
 
 // To be replaced by the endpoint of the API deployed through the CloudFormation Template
-const APIEndPoint = 'https://ha9qfkm07d.execute-api.eu-west-1.amazonaws.com'
+const APIEndPoint = 'https://agnnreov2d.execute-api.eu-west-1.amazonaws.com/foodstore/foods/eqwewqeqw'
 
 function App() {
   return (
